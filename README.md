@@ -7,7 +7,6 @@ This project was made to allow users to clone Discord Servers. This is not withi
 
 ## Setup
 - clone or download the repository as a `ZIP`
-- edit config.py as per your requirements
 - for people not into coding, use 'install.bat' as a 1 time intallation step
 - use 'bot.bat' if you have already intalled the bot and all its prerequisites
 
