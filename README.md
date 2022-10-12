@@ -11,7 +11,7 @@ This project was made to allow users to clone Discord Servers. This is not withi
 - use 'bot.bat' if you have already intalled the bot and all its prerequisites
 
 
-##Risk of Use
+#### Risk of Use
 Due to this being out of Discord's ToS, there is a possiblity leading to the termination of your Discord Account.
 
 ## License
