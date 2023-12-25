@@ -1,18 +1,18 @@
-# server-cloner
-This project was made to allow users to clone Discord Servers. This is not within Discord's ToS and I would not reccomend using this. This was just developed as a fun project while trying to explore the self-bots section of Discord's API and finding ways to protect against it. This is a great tool for creating a server from Scratch without manually creating servers and various channels within it.
+# Discord Server Cloner Tool
 
-## Prerequisites
-- python 3.8 or higher  `https://www.python.org/downloads/`
-- pip installed and configured `https://www.geeksforgeeks.org/how-to-install-pip-on-windows/`
+This tool facilitates the cloning of Discord servers, streamlining the process of creating new servers with similar channel structures. It is important to note that the usage of this tool might not align with Discord's Terms of Service (ToS). Although developed as an exploratory project in the realm of Discord's API and self-bots, its utilization is intended primarily for educational purposes and to enhance server setup efficiency.
 
-## Setup
-- clone or download the repository as a `ZIP`
-- for people not into coding, use 'install.bat' as a 1 time intallation step
-- use 'bot.bat' if you have already intalled the bot and all its prerequisites
+## System Requirements
+- Python 3.8 or newer: Download from [Python Official Website](https://www.python.org/downloads/)
+- Pip (Python package manager): Installation guide available at [GeeksforGeeks](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/)
 
+## Installation and Setup
+1. **Repository Acquisition**: Clone or download the repository in ZIP format.
+2. **Initial Installation**: For users unfamiliar with coding, run 'install.bat' for a one-time setup.
+3. **Bot Execution**: Use 'bot.bat' to operate the tool if you have previously completed the installation process.
 
-#### Risk of Use
-Due to this being out of Discord's ToS, there is a possiblity leading to the termination of your Discord Account.
+### Usage Considerations and Risks
+Employ this tool with caution, considering its potential non-compliance with Discord's ToS. There is a risk of account termination associated with improper use, especially when used with personal Discord accounts. It is recommended to utilize this tool with Bot Tokens to mitigate risks.
 
-## License
-Copyright (c) 2022 code-wolf-byte.
+## Legal Notice and License
+Developed in 2022 by code-wolf-byte, this tool is released as free to use. It is provided "as is", without warranty of any kind, express or implied. Users are encouraged to use it responsibly and within the bounds of legal and ethical standards.
